@@ -34,3 +34,4 @@ Un sistema básico CRUD basado en React. Utilizando MongoDB para almacenar los d
 - [MongoDB](https://www.mongodb.com/)
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [mongoose](https://mongoosejs.com/)
+- [Formik](https://formik.org/docs/api/field)
