@@ -29,9 +29,11 @@ Un sistema básico CRUD basado en React. Utilizando MongoDB para almacenar los d
 ## Technologies Used
 - [React](https://pages.github.com/)
 - [ReactRouter](https://reactjs.org/docs/getting-started.html)
+- [Axios](https://axios-http.com/docs/intro)
 - [Express](https://expressjs.com/en/starter/installing.html)
 - [SweetAlert2](https://sweetalert2.github.io/)
 - [MongoDB](https://www.mongodb.com/)
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [mongoose](https://mongoosejs.com/)
 - [Formik](https://formik.org/docs/api/field)
+
